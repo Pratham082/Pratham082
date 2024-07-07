@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on Software Development, Web Devlopment, Machine Automation, Artificial Intelligence, and Wifi Sensing.
 - 📫 How to reach me ... mail id: pratham21082@iiitd.ac.in
 
-
-# Hi there 👋
-
-I'm [Your Name], a passionate software developer with a strong background in various programming languages and technologies. Here's a glimpse of my tech stack:
-
 ## Tech Stack
 
 ### Languages

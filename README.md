@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratham082
-- 👀 I’m interested in Java programming, Web 3.0, Cryptocurrencies, Fin-tech.
-- 🌱 I’m currently learning Java, Operating Systems, Digital Marketing, Web Devlopment, Video Editing, Graphic Designing.
-- 💞️ I’m looking to collaborate on Software Development, Web Devlopment, python projects, data analytics, Video Editing, Graphic Designing.
+- 👀 I expertise in Data Structure and Algorithms, Object Oriented Programming, DataBase Managment Systems, Web Development, and Machine Learning.
+- 🌱 My technical Electives are Computer Vision, Machine Learning, Neural Networks, Wireless Networking and Network Security.
+- 💞️ I’m looking to collaborate on Software Development, Web Devlopment, Machine Automation, Artificial Intelligence, and Wifi Sensing.
 - 📫 How to reach me ... mail id: pratham21082@iiitd.ac.in
 
 <!---

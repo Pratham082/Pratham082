@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pratham Singhal, from IIITD, pursuing Btech in Computer Science Engineering
 - 👀 I hold expertise in Data Structure and Algorithms, Object Oriented Programming, DataBase Managment Systems, Web Development, and Machine Learning.
-- 🌱 My technical Electives are Computer Vision, Machine Learning, Neural Networks, Wireless Networking and Network Security.
+- 🌱 My interests include Computer Vision, Machine Learning, Neural Networks, Wireless Networking and Network Security.
 - 💞️ I’m looking to collaborate on Software Development, Web Devlopment, Machine Automation, Artificial Intelligence, and Wifi Sensing.
-- 📫 How to reach me ... mail id: pratham21082@iiitd.ac.in
+- 📫 How to reach me ... mail id:pratham21082@iiitd.ac.in
 
 ## Tech Stack
 
